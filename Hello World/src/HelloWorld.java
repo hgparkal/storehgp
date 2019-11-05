@@ -1,4 +1,3 @@
-package com.hgp.example;
 
 public class HelloWorld {
 	public static void main(String[] args) {
